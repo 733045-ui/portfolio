@@ -1,0 +1,31 @@
+h1, h2, h3, a{
+    text-align:center;
+}
+div{
+    background-color:Khaki;
+}
+.special{
+    background-color:SaddleBrown;
+}
+body{
+    background-color:Orange;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size:35px;
+}
+hr{
+    border-top: 3px solid yellow;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    border: none;
+}
+img{
+    width:500px;
+    display: block;
+    margin: auto;
+}
